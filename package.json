@@ -29,8 +29,9 @@
   },
   "homepage": "https://github.com/andrew-templeton/bottie#readme",
   "dependencies": {
-    "botkit": "0.0.5",
+    "bluebird": "^3.4.7",
     "elizabot": "0.0.2",
+    "hapi": "^16.1.0",
     "natural": "^0.2.1",
     "request": "2.75.0",
     "sentiment": "2.1.0"

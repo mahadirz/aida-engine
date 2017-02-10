@@ -34,5 +34,17 @@ module.exports = {
     'are you up',
     'who are you',
     'what are you'    
-  ]
+  ],
+    Introduction : [
+        'please introduce yourself',
+        'would you like to tell about yourself',
+        'Tell me about yourself',
+        'ADA',
+        'AIDA',
+        'about yourself',
+        'who are you',
+        'explain yourself',
+        'introduce yourself',
+        'introduce about you'
+    ]
 };
