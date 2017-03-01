@@ -16,7 +16,7 @@ commands *[no dollar sign is required, used for reference only]*:
 You may use postman to send http post to http://localhost:8000/api/nlp . By default AIDA is
 configured to listen to port 8000
 
-
+![Preview](https://raw.githubusercontent.com/mahadirz/aida-engine/master/screenshot-postman.png)
 
 <br><br>
 Adapted & inspired from: [bottie](
