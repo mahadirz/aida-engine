@@ -45,6 +45,7 @@ module.exports = {
         'who are you',
         'explain yourself',
         'introduce yourself',
-        'introduce about you'
+        'introduce about you',
+        'hello'
     ]
 };

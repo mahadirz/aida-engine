@@ -1,33 +1,29 @@
 {
-  "name": "bottie",
-  "version": "0.0.2",
-  "description": "Simple BotKit bot with NLP extended with sentiment and more",
+  "name": "aida-engine",
+  "version": "0.0.1",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrew-templeton/bottie.git"
+    "url": "git+https://github.com/mahadirz/aida-engine.git"
   },
   "keywords": [
-    "slack",
     "bot",
     "botkit",
     "nlp",
     "ai",
     "natural",
     "language",
-    "andrew",
-    "templeton",
-    "vveerrgg"
   ],
-  "author": "Andrew Templeton and Vveerrgg",
+  "author": "Mahadir Ahmad",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrew-templeton/bottie/issues"
+    "url": "https://github.com/mahadirz/aida-engine/issues"
   },
-  "homepage": "https://github.com/andrew-templeton/bottie#readme",
+  "homepage": "https://github.com/mahadirz/aida-engine",
   "dependencies": {
     "bluebird": "^3.4.7",
     "elizabot": "0.0.2",
